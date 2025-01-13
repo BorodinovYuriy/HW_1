@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>GeometryLibrary</artifactId>
-    <version>1.0.0</version> <!-- Устанавливаем версию 1.0.0 для GeometryLibrary -->
+    <version>1.1.0</version> <!-- Устанавливаем версию 1.1.0 для GeometryLibrary -->
 
 
     <properties>
